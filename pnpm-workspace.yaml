@@ -47,7 +47,7 @@ catalog:
   rimraf: 6.0.1
   tsdown: ^0.15.6
   tsx: ^4.19.3
-  simple-git: 3.28.0
+  simple-git: 4.0.1
   uuid: 10.0.0
   vite: npm:rolldown-vite@latest
   vite-plugin-dts: ^4.5.4
